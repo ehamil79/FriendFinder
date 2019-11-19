@@ -5,7 +5,8 @@
   "main": "server.js",
   "dependencies": {
     "express": "^4.17.1",
-    "node": "^13.1.0"
+    "node": "^13.1.0",
+    "serialport": "^8.0.5"
   },
   "devDependencies": {},
   "scripts": {
